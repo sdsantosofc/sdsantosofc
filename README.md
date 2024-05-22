@@ -1,0 +1,4 @@
+- 👋 Olá, sou Erick,
+- 🌱 Atualmente estou aprendendo .lua, html e entre outros,
+- 💞️ Procuro colaborar com a Crensa Team,
+- 📫 Como entrar em contato comigo so me chamar no discord.
